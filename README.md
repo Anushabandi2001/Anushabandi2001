@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anushabandi2001
 - 👀 I’m interested in Development and Testing.
 - 🌱 I’m currently learning Python FullStack
-- 📫 How to reach me anushabandi417@gmail.com www.linkedin.com/in/anusha-bandi-05b871225
+- 📫 How to reach me anushabandi417@gmail.com    www.linkedin.com/in/anusha-bandi-05b871225
 - 😄 Pronouns: Anusha
 
 <!---
